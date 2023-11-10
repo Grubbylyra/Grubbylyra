@@ -6,7 +6,7 @@ C, Lua, HTML
 - 💞️ I’m looking to collaborate on -
 Nothing at the moment
 - 📫 How to reach me -
-Discord: citinx14#3231
+Discord: citinx14
 
 
 <!---
